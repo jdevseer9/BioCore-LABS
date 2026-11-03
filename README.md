@@ -6,7 +6,7 @@ C++ / Qt 6 / QML + agentic Python backend · ~13 000 lignes C++.
 > Développé intégralement par **Juste Elysée MALANDILA** — Brazzaville, Congo.
 > 📫 malandilajusteelysee@gmail.com · linkedin.com/in/justelm · yusticanum.com
 
-![Interface](screenshots/wide.png)
+![IDE](screenshots/ide.png)
 
 ---
 
@@ -48,7 +48,13 @@ Qt6 Quick + moteur C++ natif + backend agentique, augmenté d'un
 | Pont | JSON-RPC/stdio vers backend Python agentique |
 | Science | 3Dmol.js, MathJax, three.js, pandas (25+ formats) |
 
-## 📥 Démo
+## � Galerie
+
+| Laboratoire 3D — RCSB / PubChem | Hélice ADN (three.js) |
+|---|---|
+| ![Lab](screenshots/lab3d.png) | ![ADN](screenshots/dna.png) |
+
+## �📥 Démo
 
 Exécutable Windows en préparation —
 [Releases](https://github.com/jdevseer9/BioCore-LABS/releases).
